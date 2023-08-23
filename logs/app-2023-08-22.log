@@ -1,0 +1,13 @@
+[INFO ] 2023-08-22 21:45:50.367 [main] UserTests - *****Creating the User*****
+[INFO ] 2023-08-22 21:46:03.308 [main] UserTests - *****Getting  the User Data*****
+[INFO ] 2023-08-22 21:46:05.735 [main] UserTests - *****Updating  the User Data*****
+[INFO ] 2023-08-22 21:46:07.608 [main] UserTests - *****Updating the User Data*****
+[INFO ] 2023-08-22 21:48:05.707 [main] UserTests - *****Creating the User*****
+[INFO ] 2023-08-22 21:48:13.871 [main] UserTests - *****Getting  the User Data*****
+[INFO ] 2023-08-22 21:48:16.624 [main] UserTests - *****Updating  the User Data*****
+[INFO ] 2023-08-22 21:48:19.810 [main] UserTests - *****Deleting the User Data*****
+[DEBUG] 2023-08-22 21:51:13.406 [main] UserTests - debugging ***********
+[INFO ] 2023-08-22 21:51:13.514 [main] UserTests - *****Creating the User*****
+[INFO ] 2023-08-22 21:51:22.116 [main] UserTests - *****Getting  the User Data*****
+[INFO ] 2023-08-22 21:51:23.967 [main] UserTests - *****Updating  the User Data*****
+[INFO ] 2023-08-22 21:51:25.658 [main] UserTests - *****Deleting the User Data*****
