@@ -1,0 +1,11 @@
+api\Utilities\DataProviders.class
+api\Utilities\CommonUtility.class
+api\Payloads\StoreUser.class
+api\tests\UserTests.class
+api\Utilities\ExtentReportManager.class
+api\Endpoints\UserEndpoints2.class
+api\Payloads\User.class
+api\Endpoints\UserEndpoints.class
+api\Endpoints\Routes.class
+api\tests\DataDrivenTests.class
+api\tests\UserTests2.class
