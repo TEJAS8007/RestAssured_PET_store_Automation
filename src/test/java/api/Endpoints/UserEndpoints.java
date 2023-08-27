@@ -63,7 +63,7 @@ public class UserEndpoints {
 		return response;
 	}
 
-	/*
+	
 	public static Response StorePost(StoreUser payload)
 	{
 		Response res= given()
@@ -97,5 +97,5 @@ public class UserEndpoints {
 		
 		return res;
 	}
-	*/
+	
 }

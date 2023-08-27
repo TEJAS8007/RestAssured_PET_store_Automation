@@ -89,7 +89,7 @@ public class UserTests {
 		Assert.assertEquals(res.getStatusCode(), 200, "check for status code 200");
 	}
 
-/*	
+	
 	@Test(priority = 5)
 	public void storeUserpostTest()
 	{
@@ -112,5 +112,5 @@ public class UserTests {
 		Response res=UserEndpoints.storedeleteId();
 		res.then().log().all();
 	}
-	*/
+	
 }
